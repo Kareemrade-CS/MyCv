@@ -1,0 +1,45 @@
+.imgcv
+{
+    width: 120x;
+    height: 100px;
+    border-radius: 60%;
+}
+body{
+    background-color: rgb(70, 0, 0);
+    color: white;
+    font-size: 23px;
+}
+.name
+{
+    font-size: 35px;
+    color: white;
+}
+.information
+{
+    font-size: 34px;
+}
+.Education
+{
+    font-size: 34px;
+}
+.About 
+{
+    font-size: 34px;
+}
+.Training
+{
+    font-size: 34px;
+}
+.Skills
+{
+    font-size: 34px;
+}
+.p1
+{
+    letter-spacing: 4px;
+    word-spacing: 3px;
+    line-height: 27px;
+    font-size: 20px;
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+}
